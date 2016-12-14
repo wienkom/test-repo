@@ -1,4 +1,4 @@
-package nl.omw.try;
+package nl.omw.test;
 
 /**
  * Hello world!
